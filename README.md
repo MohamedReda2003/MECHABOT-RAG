@@ -218,6 +218,6 @@ Contributions are welcome! Feel free to:
 
 <p align="center">
   <a href="mailto:clubmecatroniqueensate@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/company/club-mecatronique-ensa-tetouan">💼 LinkedIn</a> •
-  <a href="https://www.instagram.com/clubmecatronique_ensate">📸 Instagram</a>
+  <a href="https://www.linkedin.com/company/club-m%C3%A9catronique-ensat%C3%A9/">💼 LinkedIn</a> •
+  <a href="https://www.instagram.com/clubmecatronique_ensate/">📸 Instagram</a>
 </p>
