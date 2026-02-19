@@ -195,7 +195,7 @@ The chatbot can answer questions about:
 
 Contributions are welcome! Feel free to:
 
-- 🐛 Report bugs via [Issues](https://github.com/yourusername/mechabot-rag/issues)
+- 🐛 Report bugs
 - 💡 Suggest features
 - 🔀 Submit pull requests
 
